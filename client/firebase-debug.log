@@ -69,3 +69,173 @@ You're about to initialize a Firebase project in this directory:
 [info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
 [info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
 [info] 
+[debug] [2023-04-12T23:11:05.217Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:11:05.944Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:11:05.944Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:11:06.225Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:11:06.906Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:11:06.906Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:12:21.096Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:12:21.734Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:12:21.734Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:12:22.435Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:12:23.069Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:12:23.069Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:12:26.116Z] >>> [apiv2][query] GET https://api.github.com/repos/yy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:12:26.728Z] <<< [apiv2][status] GET https://api.github.com/repos/yy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:12:26.728Z] <<< [apiv2][body] GET https://api.github.com/repos/yy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:17:57.955Z] >>> [apiv2][query] GET https://api.github.com/repos/yy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:17:58.574Z] <<< [apiv2][status] GET https://api.github.com/repos/yy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:17:58.574Z] <<< [apiv2][body] GET https://api.github.com/repos/yy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:17:58.655Z] >>> [apiv2][query] GET https://api.github.com/repos/yy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:17:58.761Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:17:58.933Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:17:59.236Z] <<< [apiv2][status] GET https://api.github.com/repos/yy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:17:59.236Z] <<< [apiv2][body] GET https://api.github.com/repos/yy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:17:59.334Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-04-12T23:17:59.334Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:17:59.470Z] >>> [apiv2][query] GET https://api.github.com/repos/yyy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:17:59.542Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-04-12T23:17:59.542Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:17:59.886Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:00.083Z] <<< [apiv2][status] GET https://api.github.com/repos/yyy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:00.083Z] <<< [apiv2][body] GET https://api.github.com/repos/yyy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:00.125Z] >>> [apiv2][query] GET https://api.github.com/repos/yyyy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:00.323Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:00.505Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:00.510Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:00.511Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:00.760Z] <<< [apiv2][status] GET https://api.github.com/repos/yyyy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:00.760Z] <<< [apiv2][body] GET https://api.github.com/repos/yyyy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:00.975Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:00.975Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:01.084Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:01.084Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:02.349Z] >>> [apiv2][query] GET https://api.github.com/repos/yyyyyyyy/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:03.012Z] <<< [apiv2][status] GET https://api.github.com/repos/yyyyyyyy/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:03.012Z] <<< [apiv2][body] GET https://api.github.com/repos/yyyyyyyy/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:11.030Z] >>> [apiv2][query] GET https://api.github.com/repos/mern-project/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:11.649Z] <<< [apiv2][status] GET https://api.github.com/repos/mern-project/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:11.649Z] <<< [apiv2][body] GET https://api.github.com/repos/mern-project/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-12T23:18:12.060Z] >>> [apiv2][query] GET https://api.github.com/repos/mern-project/actions/secrets/public-key type=owner
+[debug] [2023-04-12T23:18:12.689Z] <<< [apiv2][status] GET https://api.github.com/repos/mern-project/actions/secrets/public-key 404
+[debug] [2023-04-12T23:18:12.689Z] <<< [apiv2][body] GET https://api.github.com/repos/mern-project/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
